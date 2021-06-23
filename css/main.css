@@ -198,6 +198,7 @@ body {
     display: flex;
   }
   header .main-menu .item .item__name {
+    cursor: pointer;
     padding: 10px 20px 34px 20px;
     font-family: Arial, sans-serif;
     font-size: 13px;
